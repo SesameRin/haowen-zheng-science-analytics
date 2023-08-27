@@ -1,0 +1,45 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx} % Required for including pictures
+\usepackage{listings}  % 排代码用的宏包
+\usepackage{amsmath}
+\usepackage[section]{placeins} % 避免越过section
+\usepackage[backref]{hyperref}
+\usepackage{listings}
+\usepackage{setspace}
+\usepackage{subfiles}
+\usepackage{tikz}
+\usepackage{subcaption}
+\linespread{1}
+
+\setlength{\textfloatsep}{5pt}
+\begin{document}
+\begin{titlepage}
+    \centering
+    {\Huge\Large Fall 2023\\\Large FORWARD DATA LAB}
+
+    \vspace{6cm}
+
+    {\Huge\bfseries Research Report on Science Analytics \\\Large Reading Papers, Fetching Faculty Information and Doing Analysis}
+
+    \vfill
+
+    {Haowen Zheng}
+\end{titlepage}
+
+\subfile{subfiles/intro.tex}
+
+% each problem includes: problem description, approach, result
+
+\subfile{subfiles/mainwork.tex} % fetch publications with author's name and affiliation
+
+\subfile{subfiles/neo4j.tex}  % reformat openalex object to neo4j nodes
+
+\subfile{subfiles/facerecognition.tex} % face recognition
+
+\subfile{subfiles/conclusion.tex} % reflect what I learned
+
+\subfile{subfiles/futurework.tex} % future suggestion on the project
+
+
+\end{document}

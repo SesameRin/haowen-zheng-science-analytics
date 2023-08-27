@@ -1,0 +1,11 @@
+\documentclass[../report.tex]{subfiles}
+
+\begin{document}
+\section{Face Recognition}
+\hspace{0.5cm} For future work, we can divide the faculty by demographic attributes like age, gender or race and analyze their publication rate. To specify these attributes, one way is through face recognition. 
+
+\begin{enumerate}
+    \item \textbf{Approach: } Here's two tools I found to do face recognition: OpenCV and FairFace. OpenCV is a popular computer vision library. (\url{https://docs.opencv.org/3.4/da/d60/tutorial_face_main.html}) It offers tools for face recognition using algorithms like Eigenfaces, Fisherfaces, and Local Binary Patterns Histograms. Faces in images are firstly detected using DNN methods. Then you can use their pretrained model to predict the age or gender of that person. FairFace is a dataset designed to address biases in face recognition and classification systems. (\url{https://github.com/joojs/fairface}) It offers a balanced representation across race, gender, and age, making it a valuable resource for training fair and equitable facial analysis models. Unlike traditional datasets, FairFace prioritizes diversity, enabling developers to create more inclusive facial recognition applications.
+    \item \textbf{Issue: } After our weekly meeting, I recognized a significant concern with face recognition. The profile image on Google Scholar doesn't always reflect the author's current appearance, making it unreliable for predicting demographic attributes.
+\end{enumerate}
+\end{document}

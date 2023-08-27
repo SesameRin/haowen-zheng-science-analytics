@@ -1,0 +1,10 @@
+id,name,hierarchy_level,parent_publisher,lineage,country_code,works_count,cited_by_count,2yr_mean_citedness,h_index,i10_index,institution_role,funder_role,publisher_role,sources_api_url,updated_date,created_date
+P4324263044,Shaanxi University of Science & Technology,0,,P4324263044,,2482,101,0,2,0,,,P4324263044,https://api.openalex.org/sources?filter=host_organization.id:P4324263044,2023-07-09,2023-03-16
+P4360969488,First Affiliated Hospital of Fujian Medical University,0,,P4360969488,CN,1670,42,0,1,0,,,P4360969488,https://api.openalex.org/sources?filter=host_organization.id:P4360969488,2023-07-09,2023-03-30
+P4324001545,Editorial Department of PLA Nursing Journal,0,,P4324001545,,2976,27,0,1,0,,,P4324001545,https://api.openalex.org/sources?filter=host_organization.id:P4324001545,2023-07-09,2023-03-13
+P4362643758,Guangxi Research Institute of Chemical Industry,0,,P4362643758,CN,1582,27,0,1,0,,,P4362643758,https://api.openalex.org/sources?filter=host_organization.id:P4362643758,2023-07-09,2023-04-07
+P4310312126,Departamento de História - Colégio Pedro II,0,,P4310312126,BR,352,24,0.007142857142857143,2,0,,,P4310312126,https://api.openalex.org/sources?filter=host_organization.id:P4310312126,2023-07-09,2023-01-01
+P4310317565,Vita e pensiero,0,,P4310317565,IT,425,20,0,4,1,,,P4310317565,https://api.openalex.org/sources?filter=host_organization.id:P4310317565,2023-07-09,2023-01-01
+P4310313714,Q1629572,0,,P4310313714,DE,376,18,0.00684931506849315,2,0,,,P4310313714,https://api.openalex.org/sources?filter=host_organization.id:P4310313714,2023-07-09,2023-01-01
+P4310314252,European Scientific Center Biological Marker,0,,P4310314252,CZ,264,16,0,2,0,,,P4310314252,https://api.openalex.org/sources?filter=host_organization.id:P4310314252,2023-07-09,2023-01-01
+P4310315282,STAI Muhamadiyah Tulungagung,0,,P4310315282,ID,30,2,0,1,0,,,P4310315282,https://api.openalex.org/sources?filter=host_organization.id:P4310315282,2023-07-09,2023-01-01

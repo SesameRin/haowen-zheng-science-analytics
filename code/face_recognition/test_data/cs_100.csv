@@ -1,0 +1,101 @@
+Id,Name,Email,Position,Phone number,University_Name,Department_Id,scholar_id,image_url
+1,Alman Josh,josh@cs.columbia.edu,Assistant Professor of Computer Science,Missing,Columbia University,0,yyDMlesAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=yyDMlesAAAAJ
+2,Andoni Alexandr,andoni@cs.columbia.edu,Associate Professor,Missing,Columbia University,0,Evgx6UkAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=Evgx6UkAAAAJ
+3,Bareinboim Elias,eb@cs.columbia.edu,Associate Professor,2128538438,Columbia University,0,r5U-D7YAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=r5U-D7YAAAAJ
+4,Belhumeur Peter N,belhumeur@cs.columbia.edu,Professor,2128538463,Columbia University,0,J8YyZugAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=J8YyZugAAAAJ
+5,Blei David,david.blei@columbia.edu,Professor Joint with Statistics,Missing,Columbia University,0,8OYE6iEAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=8OYE6iEAAAAJ
+6,Blumberg Andrew,andrew.blumberg@columbia.edu,Professor Joint with Mathematics,2128538427,Columbia University,0,hkKFNr0AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=hkKFNr0AAAAJ
+7,Carloni Luca,luca@cs.columbia.edu,Professor and Department Chair,Missing,Columbia University,0,sEAoh3MAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=sEAoh3MAAAAJ
+8,Chaintreau Augustin,augustin@cs.columbia.edu,Associate Professor,2128538472,Columbia University,0,Hb6J54cAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=Hb6J54cAAAAJ
+9,Chen Xi,xichen@cs.columbia.edu,Professor,Missing,Columbia University,0,6SSMIsoAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=6SSMIsoAAAAJ
+10,Chilton Lydia B,lc3251@columbia.edu,Assistant Professor,2128538487,Columbia University,0,RpxD-7QAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=RpxD-7QAAAAJ
+11,Edwards Stephen A,sedwards@cs.columbia.edu,Associate Professor,Missing,Columbia University,0,3aw_314AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=3aw_314AAAAJ
+12,Feiner Steven K,feiner@cs.columbia.edu,Professor,Missing,Columbia University,0,PogsVkYAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=PogsVkYAAAAJ
+13,Geambasu Roxana,roxana@cs.columbia.edu,Associate Professor,2128538454,Columbia University,0,f8RkRagAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=f8RkRagAAAAJ
+14,Gravano Luis,gravano@cs.columbia.edu,Professor,Missing,Columbia University,0,Ff6era8AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=Ff6era8AAAAJ
+15,Hsu Daniel J,djhsu@cs.columbia.edu,Associate Professor,2128538436,Columbia University,0,Bp6tvy0AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=Bp6tvy0AAAAJ
+16,Jana Suman,suman@cs.columbia.edu,Associate professor,Missing,Columbia University,0,SDY9FwUAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=SDY9FwUAAAAJ
+17,Kaiser Gail E,kaiser@cs.columbia.edu,Professor,Missing,Columbia University,0,LIdVlPsAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=LIdVlPsAAAAJ
+18,Kender John R,jrk@cs.columbia.edu,Professor,2128538466,Columbia University,0,RBuoCYEAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=RBuoCYEAAAAJ
+19,Kim Martha A,martha@cs.columbia.edu,Associate Professor,Missing,Columbia University,0,gFb9vegAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=gFb9vegAAAAJ
+20,Knowles David,dak2173@columbia.edu,Assistant Professor,Missing,Columbia University,0,N9QGV6YAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=N9QGV6YAAAAJ
+21,Malkin Tal G,tal@cs.columbia.edu,Professor,Missing,Columbia University,0,c0yPSEYAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=c0yPSEYAAAAJ
+22,Misra Vishal,vishal.misra@columbia.edu,Professor,Missing,Columbia University,0,9hPnkXsAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=9hPnkXsAAAAJ
+23,Nayar Shree K,nayar@cs.columbia.edu,T C Chang Professor of Computer Science,2128538432,Columbia University,0,3pZs3j0AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=3pZs3j0AAAAJ
+24,Nieh Jason,nieh@cs.columbia.edu,Professor,Missing,Columbia University,0,UGrnqBUAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=UGrnqBUAAAAJ
+25,Papadimitriou Christos H,christos@cs.columbia.edu,The Donovan Family Professor,2128538465,Columbia University,0,rXYLXJMAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=rXYLXJMAAAAJ
+26,Peer Itsik G,itsik@cs.columbia.edu,Professor,Missing,Columbia University,0,k7gYh7gAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=k7gYh7gAAAAJ
+27,Ray Baishakhi,rayb@cs.columbia.edu,Associate Professor,2128538464,Columbia University,0,VaAEb5YAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=VaAEb5YAAAAJ
+28,Ross Kenneth A,kar@cs.columbia.edu,Professor,Missing,Columbia University,0,gv2S7xYAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=gv2S7xYAAAAJ
+29,Roughgarden Tim,tr@cs.columbia.edu,Professor,2128538473,Columbia University,0,0lcJYs8AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=0lcJYs8AAAAJ
+30,Rubenstein Dan,danr@cs.columbia.edu,Professor,Missing,Columbia University,0,FM3vRPgAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=FM3vRPgAAAAJ
+31,Schulzrinne Henning G,hgs@cs.columbia.edu,Julian Clarence Levi Professor,Missing,Columbia University,0,6IHX8J4AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=6IHX8J4AAAAJ
+32,Servedio Rocco A,rocco@cs.columbia.edu,Professor,2128538452,Columbia University,0,x7cbdTcAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=x7cbdTcAAAAJ
+33,Sethumadhavan Simha,simha@cs.columbia.edu,Professor,Missing,Columbia University,0,,
+34,Smith Brian A,brian@cs.columbia.edu,Assistant Professor,2128538459,Columbia University,0,u7-V5WoAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=u7-V5WoAAAAJ
+35,Stolfo Salvatore J,sal@cs.columbia.edu,Professor,2128538435,Columbia University,0,iLXSMP8AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=iLXSMP8AAAAJ
+36,Stroustrup Bjarne,bs2286@columbia.edu,Professor,Missing,Columbia University,0,Rr9Y8acAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=Rr9Y8acAAAAJ
+37,Vapnik Vladimir,vv2116@columbia.edu,Professor,2128538448,Columbia University,0,vgxTvVAAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=vgxTvVAAAAAJ
+38,Verma Nakul,verma@cs.columbia.edu,Senior Lecturer,Missing,Columbia University,0,ufzrGe8AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=ufzrGe8AAAAJ
+39,Vondrick Carl,vondrick@cs.columbia.edu,Associate Professor,2128538467,Columbia University,0,3MzhkFIAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=3MzhkFIAAAAJ
+40,Wu Eugene,ewu@cs.columbia.edu,Associate Professor,2128538443,Columbia University,0,X53rkecAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=X53rkecAAAAJ
+41,Yang Junfeng,junfeng@cs.columbia.edu,Professor,Missing,Columbia University,0,JJ9AvbAAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=JJ9AvbAAAAAJ
+42,Yu Zhou,zy2461@columbia.edu,Associate Professor,Missing,Columbia University,0,wHwW0ZAAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=wHwW0ZAAAAAJ
+43,Yuen Henry,hsy2116@columbia.edu,Assistant Professor,2128538442,Columbia University,0,LJzTqToAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=LJzTqToAAAAJ
+44,Zheng Changxi,cxz@cs.columbia.edu,Associate Professor,Missing,Columbia University,0,-0rEuLgAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=-0rEuLgAAAAJ
+45,Zhou Xia,xia@cs.columbia.edu,Associate Professor,2128538446,Columbia University,0,t_DFZvgAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=t_DFZvgAAAAJ
+46,Allen Peter Kirby,Missing,Professor Emeritus,2128538429,Columbia University,0,6hPAjdYAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=6hPAjdYAAAAJ
+47,Coffman Ed,Missing,Professor Emeritus,2128538437,Columbia University,0,DKEbY5AAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=DKEbY5AAAAAJ
+48,Nowick Steven,Missing,Professor Emeritus,2128538451,Columbia University,0,gaXiAekAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=gaXiAekAAAAJ
+49,Unger Stephen H,Missing,Professor Emeritus,2128538439,Columbia University,0,vivnVgIAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=vivnVgIAAAAJ
+50,Wozniakowski Henryk,Missing,Professor Emeritus,2128538474,Columbia University,0,,
+51,Yemini Yechiam,Missing,Professor Emeritus,Missing,Columbia University,0,,
+52,Chris Riesbeck,cslscenter@northwestern.edu,Associate Professor of Computer Science,8474917279,Northwestern University,0,wGUK-NwAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=wGUK-NwAAAAJ
+53,Michael Horn,Missing,Associate Professor of Computer Science,Missing,Northwestern University,0,_yO5SYkAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=_yO5SYkAAAAJ
+54,Ian Horswill,Missing,Associate Professor of Computer Science,Missing,Northwestern University,0,YZesz7sAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=YZesz7sAAAAJ
+55,Jessica Hullman,Missing,Assistant Professor of Computer Science,Missing,Northwestern University,0,OLa9EKsAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=OLa9EKsAAAAJ
+56,Brian Reiser,Missing,Professor of Learning Sciences,Missing,Northwestern University,0,kRgGMNYAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=kRgGMNYAAAAJ
+57,Ken Forbus,Missing,Walter P Murphy Professor of Computer Science,Missing,Northwestern University,0,IdRYT-8AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=IdRYT-8AAAAJ
+58,Eleanor ORourke,Missing,Assistant Professor of Computer Science,Missing,Northwestern University,0,DRt16WsAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=DRt16WsAAAAJ
+59,Larry Birnbaum,Missing,Professor of Computer Science,Missing,Northwestern University,0,vxmUoXEAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=vxmUoXEAAAAJ
+60,Matt Easterday,Missing,Assistant Professor of Learning Sciences,Missing,Northwestern University,0,xXW2unwAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=xXW2unwAAAAJ
+61,Robby Findler,Missing,Professor of Computer Science,Missing,Northwestern University,0,eBqftc8AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=eBqftc8AAAAJ
+62,Paula Hooper,Missing,Assistant Professor of Instruction,Missing,Northwestern University,0,sP8pxEMAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=sP8pxEMAAAAJ
+63,JyhJing Hwang,jyhh@waymo.com,Lecturer Department of Electrical Engineering,Missing,University of Pennsylvania,0,pfuSyNoAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=pfuSyNoAAAAJ
+64,Nan Zheng,nanzheng@seas.upenn.edu,Lecturer Department of Computer and Information,Missing,University of Pennsylvania,0,rMaL2qgAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=rMaL2qgAAAAJ
+65,Sebastian Angel,webmaster@seas.upenn.edu,Raj and Neera Singh Assistant Professor CIS,Missing,University of Pennsylvania,0,pNaNj8EAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=pNaNj8EAAAAJ
+158,Kim Unertl,lars.peter.w.nordberg@Vanderbilt.Edu,Kim Unertl,206159361068,Vanderbilt University (Peabody),0,ChmGPRLg9WwJ,https://scholar.google.com/citations?view_op=medium_photo&user=ChmGPRLg9WwJ
+220,Eleni Angelaki Kaxiras,taraque@seas.harvard.edu,Associate in Computer Science,Missing,Harvard University,0,txkTWAYAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=txkTWAYAAAAJ
+221,Kitty Ascrizzi,kascrizzi@seas.harvard.edu,Preceptor in Computer Science,Missing,Harvard University,0,qnr8DpkAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=qnr8DpkAAAAJ
+227,Sangeetha Abdu Jyothi,sangeetha.aj@uci.edu,Assistant Professor,Missing,University of California Irvine,0,mYCy6RMAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=mYCy6RMAAAAJ
+228,Elena Agapie,eagapie@uci.edu,Assistant Professor,Missing,University of California Irvine,0,nc3IT3kAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=nc3IT3kAAAAJ
+229,Iftekhar Ahmed,iftekha@uci.edu,Assistant Professor,9498246444,University of California Irvine,0,bS1KOIQAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=bS1KOIQAAAAJ
+230,Shannon Alfaro,alfaro@uci.edu,Continuing Lecturer,Missing,University of California Irvine,0,XhfQ4ggAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=XhfQ4ggAAAAJ
+231,Ardalan Amiri Sani,ardalan@uci.edu,Associate Professor,9498248870,University of California Irvine,0,WA9DXAwAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=WA9DXAwAAAAJ
+232,David Armstrong,dsarmstr@uci.edu,Lecturer,Missing,University of California Irvine,0,0I9IvhQAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=0I9IvhQAAAAJ
+233,Brigitte Baldi,baldib@uci.edu,Lecturer,9498241912,University of California Irvine,0,B8zYmi8AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=B8zYmi8AAAAJ
+234,Mark Baldwin,baldwinm@uci.edu,Lecturer,Missing,University of California Irvine,0,Kzr2yJoAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=Kzr2yJoAAAAJ
+235,Alex Berg,bergac@uci.edu,Associate Professor,Missing,University of California Irvine,0,jjEht8wAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=jjEht8wAAAAJ
+236,Veronica Berrocal,vberroca@uci.edu,Professor,Missing,University of California Irvine,0,zD4Y15wAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=zD4Y15wAAAAJ
+237,Lubomir Bic,bic@ics.uci.edu,Professor Emeritus,9498245248,University of California Irvine,0,r_b1ueYAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=r_b1ueYAAAAJ
+238,Matt Bietz,mbietz@uci.edu,Lecturer,Missing,University of California Irvine,0,OPCxfSoAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=OPCxfSoAAAAJ
+239,Rebecca Black,rwblack@uci.edu,Professor,Missing,University of California Irvine,0,3g8BiiIAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=3g8BiiIAAAAJ
+240,Geoffrey C Bowker,gbowker@uci.edu,Professor Emeritus,Missing,University of California Irvine,0,W5inQnkAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=W5inQnkAAAAJ
+241,Elaheh Eli Bozorgzadeh,eli@ics.uci.edu,Professor,9498248860,University of California Irvine,0,z70Y4EkAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=z70Y4EkAAAAJ
+242,Stacy Branham,sbranham@uci.edu,Assistant Professor,9498241529,University of California Irvine,0,aCdLh8UAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=aCdLh8UAAAAJ
+243,Hengrui Cai,hengrc1@uci.edu,Assistant Professor,Missing,University of California Irvine,0,YvSwhGgAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=YvSwhGgAAAAJ
+244,Michael J Carey,mjcarey@ics.uci.edu,Distinguished Professor  Bren Professor of ICS,9498242302,University of California Irvine,0,B8tFrksAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=B8tFrksAAAAJ
+245,Qi Alfred Chen,alfchen@uci.edu,Assistant Professor,9498247865,University of California Irvine,0,iCiNQz4AAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=iCiNQz4AAAAJ
+246,Roderic Crooks,crooksr@uci.edu,Assistant Professor,Missing,University of California Irvine,0,hqJouQwAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=hqJouQwAAAAJ
+247,Tyler Cushing,tcushing@uci.edu,Lecturer,Missing,University of California Irvine,0,i0Q8OVkAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=i0Q8OVkAAAAJ
+248,Rina Dechter,dechter@ics.uci.edu,Distinguished Professor,9498246556,University of California Irvine,0,PI_3bqEAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=PI_3bqEAAAAJ
+249,Brian Demsky,bdemsky@uci.edu,Professor,Missing,University of California Irvine,0,V1KHbXwAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=V1KHbXwAAAAJ
+250,Darren Denenberg,darren.denenberg@uci.edu,Lecturer,Missing,University of California Irvine,0,wYFX-cAAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=wYFX-cAAAAAJ
+251,Michael Dillencourt,dillenco@ics.uci.edu,Professor,9498247556,University of California Irvine,0,8N5e2XcAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=8N5e2XcAAAAJ
+252,Mine Dogucu,mdogucu@uci.edu,Assistant Professor of Teaching,9498245679,University of California Irvine,0,OGEIaBcAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=OGEIaBcAAAAJ
+253,Nikil Dutt,dutt@ics.uci.edu,Distinguished Professor,9498247219,University of California Irvine,0,CpBXPVoAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=CpBXPVoAAAAJ
+254,Magda El Zarki,elzarki@uci.edu,Professor,9492288584,University of California Irvine,0,lYm120wAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=lYm120wAAAAJ
+255,David Eppstein,eppstein@ics.uci.edu,Distinguished Professor,9498246384,University of California Irvine,0,QSY7ufMAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=QSY7ufMAAAAJ
+256,Daniel Epstein,epstein@ics.uci.edu,Assistant Professor,9498244197,University of California Irvine,0,2kpYWtEAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=2kpYWtEAAAAJ
+257,Julian Feldman,feldman@ics.uci.edu,Professor Emeritus,Missing,University of California Irvine,0,IehYYlcAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=IehYYlcAAAAJ
+258,Charless Fowlkes,fowlkes@ics.uci.edu,Professor  UCI Chancellors Fellow,9498246945,University of California Irvine,0,yLQF4mkAAAAJ,https://scholar.google.com/citations?view_op=medium_photo&user=yLQF4mkAAAAJ
