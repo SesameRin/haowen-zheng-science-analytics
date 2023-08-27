@@ -1,0 +1,6 @@
+fuzzywuzzy==0.18.0
+imutils==0.5.4
+numpy==1.25.1
+pandas==2.0.3
+Requests==2.31.0
+scholarly==1.7.11
