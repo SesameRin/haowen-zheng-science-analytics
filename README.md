@@ -114,6 +114,8 @@ https://drive.google.com/file/d/1vxYMjJZl99S6WMsgOmDbdbNJx_MHBUqu/view?usp=shari
 * Dataset: https://openalex.s3.amazonaws.com/browse.html#data/
 * Scholarly: https://scholarly.readthedocs.io/en/stable/quickstart.html
 * SerpAPI: https://serpapi.com/google-scholar-api
+* OpenCV: https://docs.opencv.org/3.4/da/d60/tutorial_face_main.html
+* FairFace: https://github.com/joojs/fairface
 
   
 
